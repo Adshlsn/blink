@@ -1,0 +1,3 @@
+[submodule "TMongoWire"]
+	path = TMongoWire
+	url = https://github.com/Adshlsn/TMongoWire.git
